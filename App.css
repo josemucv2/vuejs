@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.msjWelcome{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.internalmsj{
+    background-color: rgb(52, 52, 52);
+    padding: 10px;
+    color: yellow;
+}
+.contador{
+    display: flex;
+    justify-content: center;
+}
+
+.numberContador{
+    text-align: center;
+    width: 160px;
+}
+
+.v-show{
+    height: 40px;
+}
+
+.style-list{
+    list-style-type: none;
+    
+}
+.backgroundColor{
+    background-color: rgb(119, 42, 42);
+}
+.color-black{
+    background-color: rgb(207, 0, 0);
+}
+.component-bg{
+    background-color: rgb(52, 52, 52);
+}
